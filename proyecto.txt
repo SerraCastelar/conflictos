@@ -1,1 +1,3 @@
 Esto es lo que hay en develop
+
+Esto viene de conflicto2
